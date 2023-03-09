@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>marquee</title>
+</head>
+<body>
+<marquee direction="down"><h1>FLOWERS</h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD9mtydeLoTzj4zaTIC81B3P1ysRyuGgAUEQ&usqp=CAU">
+</marquee>
+<marquee behaviour="scroll"><h2>FLOWERS</h2>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTECRAFfDDuSwzf3YekadqF-gLKPFms9e80A&usqp=CAU">
+</marquee>
