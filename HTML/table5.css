@@ -1,0 +1,14 @@
+table{
+    border: 1px solid white;
+    height: 300px;
+    width: 500px;
+    text-align: center;
+    border-collapse: collapse;
+    margin-top: 150px;
+}
+tr:nth-child(even){
+    background-color:greenyellow;
+}
+th{
+    background-color:greenyellow;
+}

@@ -1,0 +1,43 @@
+body{
+    background-color:blueviolet;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.one{
+    background-color: beige;
+    width:30%;
+    margin-right: 300px;
+}
+.a1{
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid black;
+    margin-right: 200px;
+
+}
+.two{
+    background-color: beige;
+    width:30%;
+    margin-right: 300px;
+}
+.b1{
+        outline: none;
+        border-top: none;
+        border-left: none;
+        border-right: none;
+        border-bottom: 1px solid black;
+        margin-right: 200px;
+    
+    }
+    .c1{
+        margin-left: 250px;
+    }
+    .d1{
+        background-color: blueviolet;
+        border-radius: 50px;
+    }
+    
+    

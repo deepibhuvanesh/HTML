@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+    margin-top: 150px;
+}
+.h1{
+    color: beige;
+}
+.a1{
+    margin-right: 30%;
+    color: beige;
+}
+.b1{
+    margin-right: 30%;
+    color: beige;
+}
+.c1{
+    border-color:cyan;
+    width: 500px;
+}
+.e1{
+    border-color:cyan;
+    width: 500px;
+}
+.d1{
+    color: darkcyan;
+    margin-left: 30%;
+    border-color: darkcyan;
+}
+.g1{
+    font-size: xx-large;
+    color:darkturquoise;
+}
+    

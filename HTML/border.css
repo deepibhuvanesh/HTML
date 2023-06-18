@@ -1,0 +1,22 @@
+
+a{
+    /* color: darkgreen; */
+    /* text-decoration-line: none; */
+    font-weight: bolder;
+}
+a:hover{
+    background-color: #ff1493;
+    font-size:xx-large;
+    text-decoration: dotted;
+}
+a:active{
+    color:blue;
+}
+.a1{
+    border-color: darkred;
+    border:none;
+    border:5px solid chocolate;
+    outline: none;
+    border: none;
+    border-bottom: 3px solid yellow;
+}

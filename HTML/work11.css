@@ -1,0 +1,59 @@
+body{
+    background-color:chartreuse;
+     padding: 10px 200px 70px 100px; 
+}
+.cen{
+    text-align: center;
+    color: aliceblue;
+}
+.div1{
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+     margin-left: 180px; 
+}
+
+.div2{
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.div3{
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.div4{
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+    margin-left: 180px;
+}
+.div5{
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
+.div6{
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}

@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-top: 220px;
+    background-image: url(https://free4kwallpapers.com/uploads/originals/2019/01/10/beautiful-anime-scenery--wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    /* background-image: linear-gradient(blue,lightblue,lightpink); */
+    opacity:0.30px;
+}
+/* .two{ */
+    /* background-image: linear-gradient(blue,lightblue,lightpink); */
+
+/* } */
+.one{
+    width:100px;
+     color: black;
+}

@@ -1,0 +1,34 @@
+body{
+    text-align: center;
+    margin: 150px;
+}
+.add{
+    color: black white;
+    font-size: 30px;
+    padding-left: 20px;
+}
+.call{
+    color: black;
+    font-size: 30px;
+    padding-left: 15px;
+    }
+.email{
+    color: black;
+    font-size: 30px;
+    padding-left: 15px;
+}
+.ba1{
+    float:left;
+    margin-left:230px;
+    padding: 50px;
+    
+}
+.ba2{
+    
+    float:left;
+    padding:50px;
+}
+.ba3{
+    float:left;
+    padding: 50px;
+}

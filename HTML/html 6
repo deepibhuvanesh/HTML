@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+<ol type="A">
+<li>apple</li>
+<li>banana</li>
+<li>grapes</li>
+</ol>
+<hr>
+<ul type="disc">
+<li>rose</li>
+<li>jsasmine</li>
+<li>lily</li>
+</ul>
+<hr>
+<ul type="circle">
+<li>rose</li>
+<li>jasmine</li>
+<li>lily</li>
+</ul>
+<hr>
+<ul type="square">
+<li>rose</li>
+<li>jasmine</li>
+<li>lily</li>
+</ul>
+<dl>RAM
+<dd>random acsess memory
+</dt>
+<hr>
+<dt>ROM
+<dd>read only memory
+</dt>
+<hr>
+</body>
+</html>

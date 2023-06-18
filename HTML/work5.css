@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+.hcen{
+    text-align: center;
+}
+.div1{
+    background-color: aliceblue;
+    height: 250px;
+    width: 250px;
+    text-align:center;
+    margin: 20px ;
+    margin-left: 20px;
+    float: left;
+    text-decoration-line: underline;
+}
+.icon{
+     color: black;
+     font-size: 30px;
+     background-position: 50% 50%;
+}

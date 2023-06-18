@@ -1,0 +1,30 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+    margin-top: 150px;
+}
+table{
+    margin:auto;
+    border-bottom: 2px solid green;
+    border-collapse:separate;
+    border: 1px solid white;
+}  
+
+tbody tr{
+    border: 1px solid greenyellow;
+}
+
+td{
+    padding: 30px;
+    background-color: antiquewhite;
+    border-bottom:greenyellow;
+    border-collapse: none;
+}
+th{
+    padding: 20px;
+    background-color:yellow;
+}
+table{
+    border:2px solid greenyellow;
+    border-collapse: collapse;
+}

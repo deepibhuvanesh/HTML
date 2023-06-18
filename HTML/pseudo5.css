@@ -1,0 +1,15 @@
+body{
+    margin-top: 250px;
+    text-align: center;
+    text-align: justify;
+}
+.one{
+    background-color:darkorange;
+}
+.two{
+    background-color: darkorange;
+}
+.three{
+    background-color: darkorange;
+    margin-right: 100px;
+}

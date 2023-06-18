@@ -1,0 +1,20 @@
+body{
+    margin-top: 150px;
+}
+th,td{
+    border: 1px solid black;
+    border-collapse: separate;
+    
+    padding: 30px;
+    padding-right: 80px;
+    text-align: center;
+}
+.a1{
+    background-color: green;
+}
+.b1{
+    background-color: yellow;
+}
+.c1{
+    background-color: blueviolet;
+}

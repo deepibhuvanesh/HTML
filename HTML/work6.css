@@ -1,0 +1,18 @@
+.hr{
+    width: 100px;
+    color: red;
+    }
+
+.head{
+        text-align: center;
+    }
+.box{
+        background-color: white;
+        height: 350px;
+        width: 800px;
+        margin-right: auto;
+        margin-left: auto;}
+
+.h{
+         margin-left: 150px;
+ }

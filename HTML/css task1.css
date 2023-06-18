@@ -1,0 +1,11 @@
+body{
+    background-color: dimgray;
+}
+.a1{
+    width:200px;
+}
+.c1{
+    border:1px solid crimson;
+    width: 190px;
+    height: 380px;
+}

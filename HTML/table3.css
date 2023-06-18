@@ -1,0 +1,42 @@
+
+table{
+    height:350px;
+    width: 650px;
+    text-align: center;
+    border-collapse: collapse;
+    margin-top: 150px;
+
+}
+body{
+    height:100px;
+}
+.a1{
+    border-radius: 1px solid black;
+    border-collapse: separate;
+    background-color:red;
+}
+.b1{
+    border-radius: 1px solid black;
+    border-collapse: separate;
+    background-color:yellow;
+}
+.c1{
+    border-radius: 1px solid black;
+    border-collapse: separate;
+    background-color:darkblue;
+}
+.d1{
+    border-radius: 1px solid black;
+    border-collapse: separate;
+    background-color:darkorange;
+}
+.e1{
+    border-radius: 1px solid black;
+    border-collapse: separate;
+    background-color:deeppink;
+}
+.f1{
+    border-radius: 1px solid black;
+    border-collapse: separate;
+    background-color:coral;
+}

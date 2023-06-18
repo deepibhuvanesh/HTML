@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://media.istockphoto.com/id/1363632948/photo/real-star-background.jpg?b=1&s=170667a&w=0&k=20&c=zVIgKMMmEVKFiORoYyE4YYqROpcnoHJ8QehwFoTY__A=");    
+    background-repeat: no-repeat;
+    background-size:cover;
+ }
+ .li{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+    color:white;
+    cursor: pointer;
+ }
+ ul{
+    list-style: none;
+    display: flex;
+ }
+ li{
+    padding: 20px 15px;
+ 
+ }
+ .con{
+    width: 100%;
+    position: absolute;
+    top:50%;
+    transform: translateY(-60%);
+    text-align: center;
+    color: white;
+    cursor: pointer;
+ }
+ h3{
+    font-size: 50px;
+    color:white;
+ }
+ p{
+    color: white;
+ }
+ button{
+    width: 150px;
+    padding: 15px 20px;
+    text-align: center;
+    margin:20px;
+    border-radius: 30px;
+    border: 2px solid rgb(92, 199, 242);
+    font-weight: bold;
+    background:rgb(92,199,242);
+    cursor: pointer;
+    color:white;
+ }

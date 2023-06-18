@@ -1,0 +1,27 @@
+
+body{
+    text-align: center;
+    background-color: rgb(178, 34, 34);
+}
+.p1{
+    text-align: center;
+}
+.aa{
+    background-color: aliceblue;
+    height: 400px;
+}
+.a1{
+    text-align: center;
+}
+.d1{
+    text-align: left;
+    padding-left: 550px;
+
+}
+.r1{
+    color: deeppink;
+}
+.f1{
+    text-align: center;
+   background-color: darkred; 
+}

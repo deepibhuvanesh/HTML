@@ -1,0 +1,26 @@
+h1::first-letter{
+      color:blue;
+}
+.para1{
+    text-align: center;
+}
+#para1{
+    text-decoration:underline;
+    text-decoration-style: dashed;
+}
+.para2{
+    text-decoration:underline;
+    text-decoration-style: dotted;
+}
+#para2{
+    text-decoration:underline;
+    text-decoration-color:crimson;
+}
+.para3{
+     line-height:1.9;
+}
+#para3{
+     word-spacing:2.5 ;
+}
+
+
